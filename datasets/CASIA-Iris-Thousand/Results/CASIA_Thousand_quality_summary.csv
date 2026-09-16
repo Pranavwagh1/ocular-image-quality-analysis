@@ -1,0 +1,2 @@
+Dataset,Images_Analyzed,Brightness_Mean,Contrast_Mean,Sharpness_Mean,Noise_Mean,Low_Brightness,High_Brightness,Low_Contrast,Low_Sharpness,High_Noise
+CASIA-Iris-Thousand,100,89.36942,32.239468,112.80281939755152,3.060244,5,5,5,10,10
