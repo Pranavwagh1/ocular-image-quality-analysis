@@ -1,0 +1,11 @@
+{
+    "dataset": "CASIA-Iris-Thousand",
+    "original_size": "640x480",
+    "crop_method": "center_crop",
+    "crop_size": "480x480",
+    "resize_method": "LANCZOS",
+    "final_size": "256x256",
+    "color_mode": "grayscale",
+    "normalization": "[0, 1]",
+    "data_type": "float32"
+}
