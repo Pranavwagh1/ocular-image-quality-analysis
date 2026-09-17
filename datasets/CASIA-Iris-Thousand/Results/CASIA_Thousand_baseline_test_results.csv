@@ -1,0 +1,2 @@
+Dataset,Experiment,Model,Training_Images,Validation_Images,Test_Images,Number_of_Identities,Test_Accuracy,Test_Precision,Test_Recall,Test_F1
+CASIA-Iris-Thousand,Baseline,ResNet18,12000,4000,4000,2000,0.30175,0.2724112086318627,0.30175,0.2606614678906671
